@@ -1,0 +1,67 @@
+{
+    "setup_page": {
+        "start_yearBE": 2560,
+        "end_yearBE": 2541,
+        "nameTitle": ["นาย", "นาง", "นางสาว"],
+        "nameRout": [
+            {"id": 1, "nameRoute": "ทุ่งเสี้ยว - เชียงใหม่"}, 
+            {"id": 2, "nameRoute": "จอมทอง - เชียงใหม่"},
+            {"id": 1, "nameRoute": "แม่วาง - เชียงใหม่"}],
+        "count_data": 2,
+        "count_page": 1
+    },
+    "dashboard_data": {
+        "all_driver": 16,
+        "count_route_drivers": 8,
+        "online_account": 10,
+        "investigate_account": 3,
+        "offline_account": 3
+    },
+    "table_data": [{
+            "idAccount": 4,
+            "nameTitle": "นาย",
+            "nameFirst": "ศาตนันท์",
+            "nameLast": "วริศกิตติวรกุล",
+            "dayBirth": 3,
+            "monthBirth": 8,
+            "yearBirth": 2538,
+            "identificationNumber": "2201225116984",
+            "phoneNumber": "0987245457",
+            "address": "22 ซอย 11",
+            "subDistrict": "หายยา",
+            "district": "เมือง",
+            "province": "เชียงใหม่",
+            "postCode": "50100",
+            "licenseDriver": "1ชม.00958/50",
+            "driverIdAccount": "0987245457",
+            "serviceRoute": 1,
+            "nameRoute": "ทุ่งเสี้ยว - เชียงใหม่",
+            "serviceType": 1,
+            "accessLevel": "driver",
+            "accessStatus": "online"
+        },
+        {
+            "idAccount": 10,
+            "nameTitle": "นาง",
+            "nameFirst": "ชุติมณฑน์",
+            "nameLast": "วงศ์วริศธารา",
+            "dayBirth": 9,
+            "monthBirth": 11,
+            "yearBirth": 2532,
+            "identificationNumber": "2543212442531",
+            "phoneNumber": "0956231213",
+            "address": "17/2 อาคาร นพลักษณ์ โครงการ 2 จอมทอง",
+            "subDistrict": "บ้านหลวง",
+            "district": "จอมทอง",
+            "province": "เชียงใหม่",
+            "postCode": "50160",
+            "licenseDriver": "1ชม.00321/50",
+            "driverIdAccount": "0956231213",
+            "serviceRoute": 2,
+            "nameRoute": "จอมทอง - เชียงใหม่",
+            "serviceType": 1,
+            "accessLevel": "driver",
+            "accessStatus": "investigate"
+        }
+    ]
+}

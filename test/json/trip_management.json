@@ -1,0 +1,190 @@
+{
+    "setup_page": {
+        "count_data": 16,
+        "count_page": 2
+    },
+    "dashboard_data": {
+        "all_route": 16,
+        "all_trip": 8,
+        "count_trip_driver": 10,
+        "count_trip_disabled": 3
+    },
+    "table_data": [
+        {
+            "idRoute": 1,
+            "nameStart": "ทุ่งเสี้ยว",
+            "nameEnd": "เชียงใหม่",
+            "serviceStartTime": "05:30",
+            "serviceEndTime": "18:00",
+            "dateLast": "2564-03-21T17:00:00.000Z",
+            "trip_unable": 54,
+            "trip_disabled": 6,
+            "countRound": 60
+        },
+        {
+            "idRoute": 2,
+            "nameStart": "แม่วาง",
+            "nameEnd": "เชียงใหม่",
+            "serviceStartTime": "05:30",
+            "serviceEndTime": "18:00",
+            "dateLast": "",
+            "trip_unable": "",
+            "trip_disabled": "",
+            "countRound": 57
+        },
+        {
+            "idRoute": 1,
+            "nameStart": "ทุ่งเสี้ยว",
+            "nameEnd": "เชียงใหม่",
+            "serviceStartTime": "05:30",
+            "serviceEndTime": "18:00",
+            "dateLast": "2564-03-21T17:00:00.000Z",
+            "trip_unable": 54,
+            "trip_disabled": 6,
+            "countRound": 60
+        },
+        {
+            "idRoute": 2,
+            "nameStart": "แม่วาง",
+            "nameEnd": "เชียงใหม่",
+            "serviceStartTime": "05:30",
+            "serviceEndTime": "18:00",
+            "dateLast": "",
+            "trip_unable": "",
+            "trip_disabled": "",
+            "countRound": 57
+        },
+        {
+            "idRoute": 1,
+            "nameStart": "ทุ่งเสี้ยว",
+            "nameEnd": "เชียงใหม่",
+            "serviceStartTime": "05:30",
+            "serviceEndTime": "18:00",
+            "dateLast": "2564-03-21T17:00:00.000Z",
+            "trip_unable": 54,
+            "trip_disabled": 6,
+            "countRound": 60
+        },
+        {
+            "idRoute": 2,
+            "nameStart": "แม่วาง",
+            "nameEnd": "เชียงใหม่",
+            "serviceStartTime": "05:30",
+            "serviceEndTime": "18:00",
+            "dateLast": "",
+            "trip_unable": "",
+            "trip_disabled": "",
+            "countRound": 57
+        },
+        {
+            "idRoute": 1,
+            "nameStart": "ทุ่งเสี้ยว",
+            "nameEnd": "เชียงใหม่",
+            "serviceStartTime": "05:30",
+            "serviceEndTime": "18:00",
+            "dateLast": "2564-03-21T17:00:00.000Z",
+            "trip_unable": 54,
+            "trip_disabled": 6,
+            "countRound": 60
+        },
+        {
+            "idRoute": 2,
+            "nameStart": "แม่วาง",
+            "nameEnd": "เชียงใหม่",
+            "serviceStartTime": "05:30",
+            "serviceEndTime": "18:00",
+            "dateLast": "",
+            "trip_unable": "",
+            "trip_disabled": "",
+            "countRound": 57
+        },
+        {
+            "idRoute": 1,
+            "nameStart": "ทุ่งเสี้ยว",
+            "nameEnd": "เชียงใหม่",
+            "serviceStartTime": "05:30",
+            "serviceEndTime": "18:00",
+            "dateLast": "2564-03-21T17:00:00.000Z",
+            "trip_unable": 54,
+            "trip_disabled": 6,
+            "countRound": 60
+        },
+        {
+            "idRoute": 2,
+            "nameStart": "แม่วาง",
+            "nameEnd": "เชียงใหม่",
+            "serviceStartTime": "05:30",
+            "serviceEndTime": "18:00",
+            "dateLast": "",
+            "trip_unable": "",
+            "trip_disabled": "",
+            "countRound": 57
+        },
+        {
+            "idRoute": 1,
+            "nameStart": "ทุ่งเสี้ยว",
+            "nameEnd": "เชียงใหม่",
+            "serviceStartTime": "05:30",
+            "serviceEndTime": "18:00",
+            "dateLast": "2564-03-21T17:00:00.000Z",
+            "trip_unable": 54,
+            "trip_disabled": 6,
+            "countRound": 60
+        },
+        {
+            "idRoute": 2,
+            "nameStart": "แม่วาง",
+            "nameEnd": "เชียงใหม่",
+            "serviceStartTime": "05:30",
+            "serviceEndTime": "18:00",
+            "dateLast": "",
+            "trip_unable": "",
+            "trip_disabled": "",
+            "countRound": 57
+        },
+        {
+            "idRoute": 1,
+            "nameStart": "ทุ่งเสี้ยว",
+            "nameEnd": "เชียงใหม่",
+            "serviceStartTime": "05:30",
+            "serviceEndTime": "18:00",
+            "dateLast": "2564-03-21T17:00:00.000Z",
+            "trip_unable": 54,
+            "trip_disabled": 6,
+            "countRound": 60
+        },
+        {
+            "idRoute": 2,
+            "nameStart": "แม่วาง",
+            "nameEnd": "เชียงใหม่",
+            "serviceStartTime": "05:30",
+            "serviceEndTime": "18:00",
+            "dateLast": "",
+            "trip_unable": "",
+            "trip_disabled": "",
+            "countRound": 57
+        },
+        {
+            "idRoute": 1,
+            "nameStart": "ทุ่งเสี้ยว",
+            "nameEnd": "เชียงใหม่",
+            "serviceStartTime": "05:30",
+            "serviceEndTime": "18:00",
+            "dateLast": "2564-03-21T17:00:00.000Z",
+            "trip_unable": 54,
+            "trip_disabled": 6,
+            "countRound": 60
+        },
+        {
+            "idRoute": 2,
+            "nameStart": "แม่วาง",
+            "nameEnd": "เชียงใหม่",
+            "serviceStartTime": "05:30",
+            "serviceEndTime": "18:00",
+            "dateLast": "",
+            "trip_unable": "",
+            "trip_disabled": "",
+            "countRound": 57
+        }
+    ]
+}

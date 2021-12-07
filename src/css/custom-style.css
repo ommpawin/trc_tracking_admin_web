@@ -1,0 +1,103 @@
+@import url("font-face.css");
+
+button:focus {outline:0 !important;}
+
+/* Main Style Using  */
+
+.using-custom-font {
+    font-family: 'Prompt', sans-serif;
+} 
+
+/* Navbar and Sidebar Part */
+
+.dropdown-item-list-color:active {
+    background-color: #eeeeee;
+}
+
+.user-tag-card {
+    background-color: rgba(255, 255, 255, 0.89);
+    border-radius: 0.5rem;
+}
+
+.user-at-admin {
+    color: rgba(219, 166, 7, 1);
+}
+
+.user-at-staff {
+    color: rgba(2, 111, 227, 1);
+}
+
+.image-small-size-set {
+    height: auto;
+    width: 2.0rem;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.image-brand-set {
+    height: auto;
+    width: 85px;
+    opacity: 0.9.5
+}
+
+.small-tag-level-access {
+    color: rgba(0, 0, 0, 0.7);
+    height: 16px;
+}
+
+.tag-user-access {
+    color: #121416;
+    font-size: 18px;
+}
+
+.tag-level-access {
+    font-size: 11px;
+    font-weight: bold;
+}
+
+.box-icon-20 {
+    width: 20px;
+}
+
+.text-icon {
+    font-size: 15px;
+}
+
+.menu-main-active-color {
+    color: rgb(219, 166, 7);
+}
+
+.menu-main-unactive-color {
+    color: rgb(122, 122, 122);
+}
+
+.menu-sub-active-bg-color {
+    background-color: rgb(255, 193, 6)!important;
+}
+
+.menu-sub-active-color {
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+}
+
+/* Web View Part */
+
+.text-header-web {
+    font-family: 'Prompt', sans-serif;
+    font-weight: 500;
+}
+
+.text-sub-header-web {
+    font-family: 'Prompt', sans-serif;
+    font-size: 10px;
+    text-align: center;
+    color: rgb(145, 121, 121);
+}
+
+.bg-disabled {
+    background-color: rgb(233, 236, 239) !important;
+}
+
+.text-low-opacity {
+    opacity: 0.6;
+}

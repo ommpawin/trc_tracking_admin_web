@@ -1,0 +1,73 @@
+{
+    "setup_page": {
+        "start_yearBE": 2560,
+        "end_yearBE": 2541,
+        "nameTitle": ["นาย", "นาง", "นางสาว"],
+        "count_data": 5,
+        "count_page": 1
+    },
+    "dashboard_data": {
+        "admin_account": 5,
+        "staff_account": 5,
+        "online_account": 2,
+        "investigate_account": 0,
+        "offline_account": 0
+    },
+    "table_data": [
+        {
+            "idAccount": "004",
+            "nameTitle": "คุณ",
+            "nameFirst": "ภวินท์",
+            "nameLast": "สิริเบญจพันธ์",
+            "dayBirth": "30",
+            "monthBirth": "12",
+            "yearBirth": "2541",
+            "phoneNumber": "0612717485",
+            "accessStatus": "online"
+        },
+        {
+            "idAccount": "006",
+            "nameTitle": "คุณ",
+            "nameFirst": "กฤตัชญ์",
+            "nameLast": "จันทรวัชรโภคิน ",
+            "dayBirth": "3",
+            "monthBirth": "4",
+            "yearBirth": "2538",
+            "phoneNumber": "0954872121",
+            "accessStatus": "online"
+        },
+        {
+            "idAccount": "007",
+            "nameTitle": "คุณ",
+            "nameFirst": "คณุตม์",
+            "nameLast": "อรรถจิรานนท์",
+            "dayBirth": "28",
+            "monthBirth": "12",
+            "yearBirth": "2539",
+            "phoneNumber": "0621454578",
+            "accessStatus": "investigate"
+        },
+        {
+            "idAccount": "012",
+            "nameTitle": "คุณ",
+            "nameFirst": "ชุติมณฑน์",
+            "nameLast": "วงศ์วริศธารา",
+            "dayBirth": "11",
+            "monthBirth": "10",
+            "yearBirth": "2532",
+            "phoneNumber": "0954575557",
+            "accessStatus": "investigate"
+        },
+        {
+            "idAccount": "050",
+            "nameTitle": "คุณ",
+            "nameFirst": "มณัชฌา",
+            "nameLast": "สิริเบญจพันธ์",
+            "dayBirth": "28",
+            "monthBirth": "11",
+            "yearBirth": "2541",
+            "phoneNumber": "0612747447",
+            "accessStatus": "online"
+        }
+    ]
+}

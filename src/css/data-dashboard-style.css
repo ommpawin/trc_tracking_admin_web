@@ -1,0 +1,98 @@
+@import url("font-face.css");
+
+/* Widget Part */
+
+.custom-widget-box {
+    font-family: "Prompt";
+    border-radius: 5px;
+}
+
+.widget-icon {
+    z-index: 1;
+    position: absolute;
+    right: 2.5rem;
+    top: 17%;
+}
+
+.widget-icon > i {
+    font-size: 4.5rem;
+    color: rgba(0, 0, 0, 0.2);
+}
+
+.widget-content {
+    z-index: 2;
+    position: relative;
+}
+
+.widget-content > h2 {
+    font-weight: bold;
+    margin: 0.2rem 0 0.8rem 0;
+}
+
+.widget-content > .main-text {
+    font-weight: 500;
+    font-size: 1rem;
+}
+
+.widget-content > .sub-text {
+    font-weight: 300;
+    font-size: 0.8rem;
+}
+
+
+/* Data Table Part */
+
+.highlight_header_table {
+    background-color: rgba(250, 250, 250, 0.5);
+    border-radius: 5px;
+}
+
+.set_tr_not_found {
+    height: 60px;
+}
+
+.custom-badge-admin {
+    font-family: 'Prompt', sans-serif;
+    font-weight: 500;
+    background-color: rgb(255, 193, 6);
+    color: rgb(255, 255, 255);
+}
+
+.custom-badge-staff {
+    font-family: 'Prompt', sans-serif;
+    font-weight: 500;
+    background-color: rgb(3, 123, 254);
+    color: rgb(255, 255, 255);
+}
+
+.custom-badge-driver {
+    font-family: 'Prompt', sans-serif;
+    font-weight: 500;
+    background-color: rgb(19, 181, 209);
+    color: rgb(255, 255, 255);
+}
+
+.custom-badge-online {
+    font-family: 'Prompt', sans-serif;
+    font-weight: 500;
+    background-color: rgb(16%, 65%, 27%);
+    color: rgb(255, 255, 255);
+}
+
+.custom-badge-investigate {
+    font-family: 'Prompt', sans-serif;
+    font-weight: 500;
+    background-color: rgb(21, 163, 184);
+    color: rgb(255, 255, 255);
+}
+
+.custom-badge-offline {
+    font-family: 'Prompt', sans-serif;
+    font-weight: 500;
+    background-color: rgb(221, 52, 68);
+    color: rgb(255, 255, 255);
+}
+
+.show-color-picker {
+    padding: 1px;
+}

@@ -1,0 +1,55 @@
+{
+    "setup_page": {
+        "start_yearBE": 2560,
+        "end_yearBE": 2541,
+        "nameTitle": ["นาย", "นาง", "นางสาว"],
+        "count_data": 3,
+        "count_page": 1
+    },
+    "dashboard_data": {
+        "admin_account": 3,
+        "staff_account": 0,
+        "online_account": 0,
+        "investigate_account": 0,
+        "offline_account": 0
+    },
+    "table_data": [
+        {
+            "idComplaint": "2",
+            "nameRoute": "ทุ่งเสี้ยว - เชียงใหม่",
+            "goStatus": "เที่ยวขากลับ",
+            "idTrip": "10042564-1-20-F",
+            "idDriver": "1",
+            "idUser": "2",
+            "daySend": "10",
+            "monthSend": "04",
+            "yearSend": "2564",
+            "massagePreview": "ทดสอบการร้องเรียน การใช้บริการ"
+        },
+        {
+            "idComplaint": "3",
+            "nameRoute": "ทุ่งเสี้ยว - เชียงใหม่",
+            "goStatus": "เที่ยวขาไป",
+            "idTrip": "11042564-1-5-F",
+            "idDriver": "1",
+            "idUser": "1",
+            "daySend": "11",
+            "monthSend": "04",
+            "yearSend": "2564",
+            "massagePreview": "ผู้ขับบริการไม่สุภาพ"
+        },
+        {
+            "idComplaint": "6",
+            "nameRoute": "หางดง - ฟาร์อีสเทอร์น",
+            "goStatus": "เที่ยวขาไป",
+            "idTrip": "---",
+            "idDriver": "12",
+            "idUser": "5",
+            "daySend": "14",
+            "monthSend": "04",
+            "yearSend": "2564",
+            "massagePreview": "ผู้ขับใช้ความเร็วเกินกฎหมายกำหนด"
+        }
+        
+    ]
+}

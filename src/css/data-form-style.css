@@ -1,0 +1,63 @@
+@import url("font-face.css");
+
+/* Form Style Part */
+
+.custom-form-header {
+    font-family: 'Prompt', sans-serif;
+    font-weight: 600 !important;
+    font-size: 1.1rem;
+}
+
+.custom-form-label {
+    font-family: 'Prompt', sans-serif;
+    font-weight: 400 !important;
+    font-size: 0.9rem;
+}
+
+.custom-input-disabled {
+    background-color: transparent !important;
+}
+
+.card-warning-input {
+    font-size: 60px;
+}
+
+.card-warning-text {
+    font-size: 0.9rem;
+}
+
+.card-verify-warning-text {
+    font-size: 0.85rem;
+}
+
+.card-verify-loader-icon {
+    height: 4rem;
+    width: 4rem;
+}
+
+.show-color-picker {
+    padding: 1px;
+}
+
+.a-tag-button {
+    cursor: pointer;
+}
+
+.map-form-display {
+    height: 500px;
+    width: 100vw;
+    border-radius: 2px;
+}
+
+.site-form {
+    height: 290px !important;
+    overflow-y: scroll;
+}
+
+.set-bg-warning-text-white {
+    color: #FFFFFF !important;
+}
+
+.text-warning-content {
+    font-size: 1.0rem;
+}

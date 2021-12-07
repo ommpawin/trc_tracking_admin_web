@@ -1,0 +1,17 @@
+{
+    "idAccount": "004",
+    "profileImage": "",
+    "nameTitle": "นาย",
+    "nameFirst": "ภวินท์",
+    "nameLast": "สิริเบญจพันธ์",
+    "dayBirth": "30",
+    "monthBirth": "12",
+    "yearBirth": "2541",
+    "phoneNumber": "0612717447",
+    "email": "ommpawin@live.com",
+    "address": "",
+    "accessLevel": "admin",
+    "accessStatus": "offline",
+    "passwordStatus": false,
+    "roleIDs": ""
+}

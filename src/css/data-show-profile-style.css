@@ -1,0 +1,149 @@
+@import url("font-face.css");
+
+/* Profile User Part */
+
+.using-profile-image {
+    height: 11.5rem !important;
+    width: auto;
+}
+
+.border-profile-image-admin {
+    border-style: solid;
+    border-width: 5px;
+    border-color:  rgba(219, 166, 7, 0.75);
+}
+
+.border-profile-image-staff {
+    border-style: solid;
+    border-width: 5px;
+    border-color:  rgba(2, 111, 227, 0.75);
+}
+
+.profile-main-content-name {
+    font-family: 'Prompt', sans-serif;
+    font-size: 1.27rem;
+    font-weight: 400;
+}
+
+.profile-main-content-email {
+    font-family: 'Prompt', sans-serif;
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+
+.profile-main-content-phone-number {
+    font-family: 'Prompt', sans-serif;
+    font-size: 1.1rem;
+    font-weight: 600;
+}
+
+.profile-main-content-idRoute {
+    font-family: 'Prompt', sans-serif;
+    font-size: 1rem;
+    font-weight: 500;
+}
+
+.profile-main-content-nameRoute {
+    font-family: 'Prompt', sans-serif;
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+
+.profile-main-content-detailRoute {
+    font-family: 'Prompt', sans-serif;
+    font-size: 0.85rem;
+    font-weight: 400;
+}
+
+.profile-main-content-typeRoute {
+    font-family: 'Prompt', sans-serif;
+    font-size: 0.8rem;
+    font-weight: 400;
+}
+
+.profile-main-content-colorRoute {
+    font-family: 'Prompt', sans-serif;
+    font-size: 0.8rem;
+    font-weight: 400;
+}
+
+.profile-main-text {
+    font-family: 'Prompt', sans-serif;
+    font-size: 0.9rem;
+    font-weight: 500;
+}
+
+.profile-sub-text {
+    font-family: 'Prompt', sans-serif;
+    font-size: 0.9rem;
+    font-weight: 300;
+}
+
+.custom-badge-admin {
+    font-family: 'Prompt', sans-serif;
+    font-weight: 500;
+    background-color: rgb(255, 193, 6);
+    color: rgb(255, 255, 255);
+}
+
+.custom-badge-staff {
+    font-family: 'Prompt', sans-serif;
+    font-weight: 500;
+    background-color: rgb(3, 123, 254);
+    color: rgb(255, 255, 255);
+}
+
+.custom-badge-driver {
+    font-family: 'Prompt', sans-serif;
+    font-weight: 500;
+    background-color: rgb(19, 181, 209);
+    color: rgb(255, 255, 255);
+}
+
+.custom-badge-online {
+    font-family: 'Prompt', sans-serif;
+    font-weight: 500;
+    background-color: rgb(16%, 65%, 27%);
+    color: rgb(255, 255, 255);
+}
+
+.custom-badge-investigate {
+    font-family: 'Prompt', sans-serif;
+    font-weight: 500;
+    background-color: rgb(21, 163, 184);
+    color: rgb(255, 255, 255);
+}
+
+.custom-badge-offline {
+    font-family: 'Prompt', sans-serif;
+    font-weight: 500;
+    background-color: rgb(221, 52, 68);
+    color: rgb(255, 255, 255);
+}
+
+.custom-input-disabled {
+    background-color: #fafafa!important;
+    font-family: 'Prompt', sans-serif;
+    font-weight: 400;
+}
+
+.custom-password-disabled {
+    background-color: transparent!important;
+}
+
+.custom-form-label {
+    font-family: 'Prompt', sans-serif;
+    font-weight: 400 !important;
+    font-size: 0.9rem;
+}
+
+.card-loader-icon {
+    height: 4rem;
+    width: 4rem;
+}
+
+.map-form-display {
+    height: 250px;
+    width: 100vw;
+    border-radius: 2px;
+}

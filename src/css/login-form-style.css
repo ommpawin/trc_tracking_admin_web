@@ -1,0 +1,42 @@
+@import url("font-face.css");
+
+.custom-login-page {
+    -ms-flex-align: center;
+    align-items: center;
+    background: #F3F6F9;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    height: 100vh !important;
+    -ms-flex-pack: center;
+    justify-content: start;
+}
+
+.header-logo-system {
+    height: 56px;
+    width: 100vw;
+    background-color: #ffc107;
+    padding: 8px
+}
+
+.custom-card-header {
+    font-family: 'Prompt', sans-serif;
+    font-weight: 500 !important;
+    font-size: 1.5rem;
+}
+
+.margin-image-brand {
+    padding-top: 0.035rem;
+    padding-bottom: 0.035rem;
+}
+
+.custom-form-label {
+    font-family: 'Prompt', sans-serif;
+    font-weight: 400 !important;
+    font-size: 0.9rem;
+}
+
+.custom-input-disabled {
+    background-color: transparent !important;
+}
